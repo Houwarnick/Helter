@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Helter Search Engine! </title>
+	</head>
+	<body>
+		<form>
+			SEARCH: <input type="text" name="message" value="Type your search here!">
+		</form>
+		<button> Search! </button>
+	</body>
+</html>
